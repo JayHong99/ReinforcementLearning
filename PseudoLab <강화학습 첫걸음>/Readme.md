@@ -6,6 +6,7 @@
 
 ### Study에서 정리한 Repo : 추후 공개 예정
 
-|Lecture Num|Date|PDF link|
+|Lecture Num|학습 일자|PDF link|
 |---|---|---|
 |Lecture01<br>Introduction|2022.03.16|Not yet|
+|Lecture02<br>Introduction|2022.03.17|Not yet|

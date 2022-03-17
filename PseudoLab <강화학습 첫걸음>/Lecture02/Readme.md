@@ -1,0 +1,9 @@
+# 가짜 연구소 Study Crew 4기 <강화학습 첫걸음>
+
+## CS285 : UCBerkeley "Deep Reinforcement Learning"
+
+## Lecture 02
+
+|Part Num|Part Topic|Date|
+|---|---|---|
+|PART 01|The Original Deep Imitation Learning|2022.03.17|
