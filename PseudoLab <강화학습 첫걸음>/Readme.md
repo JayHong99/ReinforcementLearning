@@ -9,4 +9,4 @@
 |Lecture Num|학습 일자|PDF link|
 |---|---|---|
 |Lecture01<br>Introduction|2022.03.16|Not yet|
-|Lecture02<br>Introduction|2022.03.17|Not yet|
+|Lecture02<br>Supervised Learning of Behaviors|2022.03.17|Not yet|

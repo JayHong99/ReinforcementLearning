@@ -2,7 +2,7 @@
 
 ## CS285 : UCBerkeley "Deep Reinforcement Learning"
 
-## Lecture 02
+## Lecture 02 : Supervised Learning of Behaviors
 
 |Part Num|Part Topic|Date|
 |---|---|---|
