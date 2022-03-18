@@ -7,3 +7,4 @@
 |Part Num|Part Topic|Date|
 |---|---|---|
 |PART 01|The Original Deep Imitation Learning|2022.03.17|
+|PART 02|Deep Imitation Learning in Practice|2022.03.18|
