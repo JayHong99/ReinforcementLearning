@@ -2,7 +2,10 @@
 
 ## CS285 : UCBerkeley "Deep Reinforcement Learning"
 
-### CS285를 개인적으로 정리한 폴더입니다.
+### Personal Annotation & Summary Repo
+- ~ Lecture 02 Part01 : summarize & take classes at the same time
+- Lecture 02 Part02 ~ : take class -> Summarize 
+
 
 ### Study에서 정리한 Repo : 추후 공개 예정
 
