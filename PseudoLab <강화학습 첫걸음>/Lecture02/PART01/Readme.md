@@ -4,7 +4,8 @@
 
 ### 용어 약자 및 설명
 
-$o$ : observation : 어떠한 관찰
+
+<img src='https://render.githubusercontent.com/render/math?math=o'> : observation : 어떠한 관찰
 
 $\pi_\theta(a|o)$ : policy : maps observation to actions : 어떠한 관찰 속에서 행동을 하도록 만드는 정책, 
 
