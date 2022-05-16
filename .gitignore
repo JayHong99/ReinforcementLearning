@@ -1,0 +1,9 @@
+Lecture Notes
+**/__pycache__/
+**/.ipynb_checkpoints/
+.venv/
+data/
+log/
+mlruns/
+**/.DS_Store
+Lecture Notes
