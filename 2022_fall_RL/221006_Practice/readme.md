@@ -3,4 +3,4 @@
 ## Task : Learning Algorithms
 - REINFORCE
 - SARSA
-- DQN
+- Q-Learning
